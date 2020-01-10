@@ -1,0 +1,11 @@
+name: "Hello world"
+output_dir: "."
+navbar:
+  title: "Work Accessibility in Singapore"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Project"
+      href: project.html
+    - text: "Key Map"
+      href: map1.html

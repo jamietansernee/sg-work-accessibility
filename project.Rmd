@@ -495,7 +495,7 @@ durbinWatsonTest(model1)
 #plot the residuals
 tmap_mode("view")
 
-tm_shape(SGDataMap2) +
+tm_shape(SGDataMap3_2) +
   tm_polygons("model1_resids",
               palette = "RdYlBu") 
 ```
